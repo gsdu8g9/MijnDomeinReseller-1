@@ -1,0 +1,12 @@
+{
+    "name": "lennardnl/MijnDomeinReseller",
+    "description": "MijnDomeinReseller API client library for PHP",
+    "homepage": "https://www.mijndomeinreseller.nl/",
+    "authors": [
+        {
+            "name": "Mijn InternetOplossing B.V.",
+            "email": "info@mijndomeinreseller.nl"
+        }
+    ]
+    
+}
